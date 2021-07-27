@@ -1,7 +1,7 @@
 import os
 from random import randint
 
-for i in range(1, 1): # days 365 in a year
+for i in range(1, 2): # days 365 in a year
 
   for j in range (0, randint(1, 100)): # no. of commits per a day
       d = str(i) + 'days ago'
