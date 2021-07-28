@@ -4,7 +4,6 @@
 <br>
 
 <br>
-# arduino-serial-lib-with-Gsm-sim800l
  A basic implementation of arduino serial communication with gsm-sim800l <br>
  Note: No external libraries are required, its very simple but eloquent.
 
