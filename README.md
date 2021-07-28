@@ -1,3 +1,7 @@
+<div align=center>
+<img src="./sensor-connection.jpg" alt="" srcset="" width="600">
+</div>
+
 # arduino-serial-lib-with-Gsm-sim800l
  a basic implementation of arduino serial communication with gsm-sim800l
 
@@ -13,3 +17,12 @@ It also reports to the main office in case the main power in the area goes off <
 It also opens and closes the barrier for the tollbooth to allow the vehicles to pass <br>
 after the driver pays the toll.
 
+## Setup
+To build this project you need the following:
+* Arduino IDE
+* Arduino Uno
+* GSM-SIM800L module
+* Hook-up wires
+* Some basic soldering skills
+* 9v battery
+* SimCard with both call time and 3G data bundle
