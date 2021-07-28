@@ -1,7 +1,9 @@
 <div align=center>
 <img src="./sensor-connection.jpg" alt="" srcset="" width="600">
 </div>
+<br>
 
+<br>
 # arduino-serial-lib-with-Gsm-sim800l
  A basic implementation of arduino serial communication with gsm-sim800l <br>
  Note: No external libraries are required, its very simple but eloquent.
@@ -28,5 +30,5 @@ To build this project you need the following:
 * 9v battery
 * SimCard with both call time and 3G data bundle
 
-  IF you are living in Accra, Ghana you can purchase your supplies <br> here geekselectronics[!(https://geekelectronics.io/)]
+  IF you are living in Accra, Ghana you can purchase your supplies <br> here [geekselectronics](https://geekelectronics.io/)
   
