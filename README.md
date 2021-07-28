@@ -27,6 +27,6 @@ To build this project you need the following:
 * Some basic soldering skills
 * 9v battery
 * SimCard with both call time and 3G data bundle
-```bash
-  IF you are living in Accra, Ghana you can purchase your supplies here geekselectronics[!(https://geekelectronics.io/)]
-  ````
+
+  IF you are living in Accra, Ghana you can purchase your supplies <br> here geekselectronics[!(https://geekelectronics.io/)]
+  
