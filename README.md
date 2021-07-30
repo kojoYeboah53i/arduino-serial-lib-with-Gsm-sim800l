@@ -13,10 +13,10 @@ There are all sorts of different libraries for different gsm-sim800l modules. <b
 I have included simple code for sending and reading sms, making phone call and making
 http request with the arduino and the sim800l. <br> 
 
-This particular implementation assumes the device is installed in an actual tollbooth <br>
+This particular implementation assumes the device is installed in an actual station <br>
 where the device updates the main office if someone tampers with the device <br>
 It also reports to the main office in case the main power in the area goes off <br>
-It also opens and closes the barrier for the tollbooth to allow the vehicles to pass <br>
+It also opens and closes the barrier for the station to allow the vehicles to pass <br>
 after the driver pays the toll.
 
 ## Setup
